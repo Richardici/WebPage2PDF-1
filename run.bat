@@ -1,1 +1,1 @@
-java -cp WebPage2PDF.jar Convertor -apiKey de3874e6-e576-4278-938d-01b9dabb40b4 -url www.cgm.com
+java -cp WebPage2PDF.jar Convertor -apiKey LICENSE_KEY -url URL_TO_CONVERT
